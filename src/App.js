@@ -11,8 +11,6 @@ import tachyons from "tachyons";
 import Particles from 'react-particles-js';
 import Clarifai from 'clarifai';
 
-
-
 import './App.css';
 
 class App extends React.Component {
